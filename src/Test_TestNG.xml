@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+  <parameter name="userName" value="hot"/>
+  <parameter name="password" value="star"/>
+    <classes>
+      
+      <class name="Test_TestNG.Parameterization"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
